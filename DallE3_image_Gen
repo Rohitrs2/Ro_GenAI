@@ -1,0 +1,2 @@
+# making sure that Open AI is installed
+!pip install openai
